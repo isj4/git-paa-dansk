@@ -16,7 +16,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 | Udsagnsord  | Nuværende brug | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulle          | hale          |
+| pull        | pulle          | hive          |
 | push        | pushe          | puffe         |
 | fetch       | fetche         | hente         |
 | branch      | branche        | skyde         |
@@ -35,17 +35,17 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | repository   | repository     | repositorium, repo |
 | branch       | branch         | gren         |
 | commit       | commit         | fastlæggelse |
-| pull request | pull request   | haleanmodning|
+| pull request | pull request   | hiveanmodning|
 | stash        | stash          | gemme        |
 | tag          | tag            | mærkning     |
 
 ## Eksempler
 
-    - Gider I hale fra den gren, jeg lige har ompodet og puffet til GitHub?
+    - Gider I hive fra den gren, jeg lige har ompodet og puffet til GitHub?
 
     - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
 
-    - Send lige en haleanmodning, når du er færdig med fletningen!
+    - Send lige en hiveanmodning, når du er færdig med fletningen!
 
     - Det håndplukker vi da bare fra udviklergrenen.
     

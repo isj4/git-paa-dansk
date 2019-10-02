@@ -21,7 +21,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | fetch       | fetche         | hente         |
 | branch      | branche        | skyde         |
 | commit      | committe       | fastlægge     |
-| rebase      | rebase         | rebasere      |
+| rebase      | rebase         | ompode        |
 | merge       | merge          | flette        |
 | squash      | squashe        | mose          |
 | stash       | stashe         | gemme         |
@@ -41,7 +41,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 ## Eksempler
 
-    - Gider I hale fra den gren, jeg lige har rebaseret og puffet til GitHub?
+    - Gider I hale fra den gren, jeg lige har ompodet og puffet til GitHub?
 
     - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
 

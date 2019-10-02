@@ -29,6 +29,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | cherry-pick | cherry-picke   | håndplukke    |
 | amend       | amende         | hovsarette    |
 | blame       | blame          | klandre       |
+| bisect      | bisecte        | indkredse     |
 
 | Navneord     | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|

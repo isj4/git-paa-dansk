@@ -27,7 +27,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | stash       | stashe         | gemme         |
 | tag         | tagge          | markere       |
 | cherry-pick | cherry-picke   | håndplukke    |
-| amend       | amende         | tilrette      |
+| amend       | amende         | hovsarette    |
 | blame       | blame          | klandre       |
 
 | Navneord     | Nuværende brug | Forslag      |
@@ -43,7 +43,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Gider I hive fra den gren, jeg lige har ompodet og puffet til GitHub?
 
-    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige forgrenet og har fastlagt ændringerne fra mit gemme der.
 
     - Send lige en hiveanmodning, når du er færdig med fletningen!
 

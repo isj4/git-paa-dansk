@@ -42,7 +42,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 ## Eksempler
 
-    - Gider I hive fra den gren, jeg lige har ompodet og puffet til GitHub?
+    - Gider i hive fra den gren, jeg lige har ompodet og puffet til GitHub?
 
     - Jeg har lige forgrenet og har fastlagt ændringerne fra mit gemme der.
 

@@ -68,6 +68,7 @@ global effekt.
     git config --global alias.forgrena branch
     git config --global alias.fastlaeg commit
     git config --global alias.ompod rebase
+    git config --global alias.flet merge
     git config --global alias.sammenflet merge
     git config --global alias.gem stash
     git config --global alias.klandr blame

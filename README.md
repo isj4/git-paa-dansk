@@ -54,3 +54,23 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
+## Dagligt brug
+
+Nedenunder er der en række kommandoer til at få konfigureret git til et dansk
+udviklingsmiljø. Desværre er man nødsaget til at bruge ae/oe/aa i stedet for
+æ/ø/ø pga. en fejl i git (overvej at rette det og sende en hiveanmodning til
+git-vedligeholderen!). Følgende kommandoer ændrer din `~/.gitconfig` og har
+global effekt.
+
+    git config --global alias.hiv pull
+    git config --global alias.puf push
+    git config --global alias.gren branch
+    git config --global alias.forgrena branch
+    git config --global alias.fastlaeg commit
+    git config --global alias.ompod rebase
+    git config --global alias.sammenflet merge
+    git config --global alias.gem stash
+    git config --global alias.klandr blame
+    git config --global alias.marker tag
+    git config --global alias.maerke tag
+    git config --global alias.indkreds bisect

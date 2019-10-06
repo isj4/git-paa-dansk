@@ -30,6 +30,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | amend       | amende         | hovsarette    |
 | blame       | blame          | klandre       |
 | bisect      | bisecte        | indkredse     |
+| clone       | clone/klone    | klone         |
 
 | Navneord     | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
@@ -75,3 +76,4 @@ global effekt.
     git config --global alias.marker tag
     git config --global alias.maerke tag
     git config --global alias.indkreds bisect
+    git config --global alias.klon clone

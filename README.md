@@ -77,4 +77,4 @@ global effekt.
     git config --global alias.maerke tag
     git config --global alias.indkreds bisect
     git config --global alias.klon clone
-    git config --global alias.mv flyt
+    git config --global alias.flyt mv
